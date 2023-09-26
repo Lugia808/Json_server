@@ -1,0 +1,181 @@
+{
+  "categorias": [
+    {
+      "id": 4,
+      "nome": "Romance"
+    },
+    {
+      "id": 5,
+      "nome": "Fantasia"
+    },
+    {
+      "id": 6,
+      "nome": "Ciência"
+    },
+    {
+      "id": 7,
+      "nome": "Autoajuda"
+    },
+    {
+      "id": 8,
+      "nome": "Mistério"
+    },
+    {
+      "id": 9,
+      "nome": "Biografia"
+    },
+    {
+      "id": 10,
+      "nome": "Tecnologia"
+    },
+    {
+      "id": 11,
+      "nome": "Política"
+    },
+    {
+      "id": 12,
+      "nome": "Arte"
+    },
+    {
+      "id": 13,
+      "nome": "Saúde"
+    }
+  ],
+  "livros": [
+    {
+      "id": 4,
+      "titulo": "Romeu e Julieta",
+      "autor": "William Shakespeare",
+      "anoPublicacao": 1597,
+      "isbn": "978-85-359-1234-5",
+      "disponivel": true,
+      "categoriaId": 4
+    },
+    {
+      "id": 5,
+      "titulo": "O Senhor dos Anéis",
+      "autor": "J.R.R. Tolkien",
+      "anoPublicacao": 1954,
+      "isbn": "978-85-359-5678-9",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 6,
+      "titulo": "Cosmos",
+      "autor": "Carl Sagan",
+      "anoPublicacao": 1980,
+      "isbn": "978-85-359-4321-0",
+      "disponivel": true,
+      "categoriaId": 6
+    },
+    {
+      "id": 7,
+      "titulo": "Poder do Hábito",
+      "autor": "Charles Duhigg",
+      "anoPublicacao": 2012,
+      "isbn": "978-85-359-9876-2",
+      "disponivel": true,
+      "categoriaId": 7
+    },
+    {
+      "id": 8,
+      "titulo": "Sherlock Holmes",
+      "autor": "Arthur Conan Doyle",
+      "anoPublicacao": 1892,
+      "isbn": "978-85-359-4567-8",
+      "disponivel": true,
+      "categoriaId": 8
+    },
+    {
+      "id": 9,
+      "titulo": "Steve Jobs",
+      "autor": "Walter Isaacson",
+      "anoPublicacao": 2011,
+      "isbn": "978-85-359-6543-1",
+      "disponivel": true,
+      "categoriaId": 9
+    },
+    {
+      "id": 10,
+      "titulo": "Inteligência Artificial",
+      "autor": "Stuart Russell e Peter Norvig",
+      "anoPublicacao": 1995,
+      "isbn": "978-85-359-2345-6",
+      "disponivel": true,
+      "categoriaId": 10
+    },
+    {
+      "id": 11,
+      "titulo": "A Política em Tempos de Crise",
+      "autor": "Pierre Rosanvallon",
+      "anoPublicacao": 2020,
+      "isbn": "978-85-359-7890-1",
+      "disponivel": true,
+      "categoriaId": 11
+    },
+    {
+      "id": 12,
+      "titulo": "A Arte da Guerra",
+      "autor": "Sun Tzu",
+      "anoPublicacao": -500,
+      "isbn": "978-85-359-1111-1",
+      "disponivel": true,
+      "categoriaId": 12
+    },
+    {
+      "id": 13,
+      "titulo": "A Cura pela Natureza",
+      "autor": "Andreas Michalsen",
+      "anoPublicacao": 2021,
+      "isbn": "978-85-359-8765-4",
+      "disponivel": true,
+      "categoriaId": 13
+    },
+    {
+      "id": 14,
+      "titulo": "Amor e Felicidade",
+      "autor": "Dalai Lama",
+      "anoPublicacao": 1998,
+      "isbn": "978-85-359-3333-7",
+      "disponivel": true,
+      "categoriaId": 4
+    },
+    {
+      "id": 15,
+      "titulo": "O Labirinto dos Espíritos",
+      "autor": "Carlos Ruiz Zafón",
+      "anoPublicacao": 2016,
+      "isbn": "978-85-359-5678-9",
+      "disponivel": true,
+      "categoriaId": 5
+    },
+    {
+      "id": 16,
+      "titulo": "A Teoria de Tudo",
+      "autor": "Jane Hawking",
+      "anoPublicacao": 2007,
+      "isbn": "978-85-359-8888-8",
+      "disponivel": true,
+      "categoriaId": 6
+    },
+    {
+      "id": 17,
+      "titulo": "O Poder e a Lei",
+      "autor": "John Grisham",
+      "anoPublicacao": 2010,
+      "isbn": "978-85-359-7654-3",
+      "disponivel": true,
+      "categoriaId": 8
+    },
+    {
+      "id": 18,
+      "titulo": "O Mundo da Arte",
+      "autor": "Robert Hughes",
+      "anoPublicacao": 2004,
+      "isbn": "978-85-359-2222-2",
+      "disponivel": true,
+      "categoriaId": 12
+    }
+  ]
+}
